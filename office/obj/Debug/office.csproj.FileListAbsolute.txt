@@ -1,0 +1,17 @@
+C:\Users\Ali\source\repos\office\office\bin\Debug\office.exe.config
+C:\Users\Ali\source\repos\office\office\bin\Debug\office.exe
+C:\Users\Ali\source\repos\office\office\bin\Debug\office.pdb
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.Form1.resources
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.Properties.Resources.resources
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.exe
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.pdb
+C:\Users\Ali\source\repos\office\office\bin\Debug\LawOffice_DB.mdf
+C:\Users\Ali\source\repos\office\office\bin\Debug\LawOffice_DB_log.ldf
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.FirstPage.resources
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.signUp.resources
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.LawyerLanding.resources
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.scheduling.resources
+C:\Users\Ali\source\repos\office\office\obj\Debug\office.CustomerLanding.resources
